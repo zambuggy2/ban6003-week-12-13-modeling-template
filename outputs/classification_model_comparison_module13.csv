@@ -1,0 +1,4 @@
+model,dataset,accuracy,precision,recall,flag_rate,false_alarms,missed_late
+Baseline: always not late,test,0.7535,0.0,0.0,0.0,0,2958
+Model 1: logistic regression,test,0.89875,0.8847682119205298,0.6774847870182555,0.18875,261,954
+Model 1: decision tree,test,0.8959166666666667,0.9009854528390427,0.6490872210953347,0.17758333333333334,211,1038
